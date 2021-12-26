@@ -7,11 +7,7 @@ module.exports = {
     social: [
       {
         name: `github`,
-        url: `https://github.com/codebushi`
-      },
-      {
-        name: `twitter`,
-        url: `https://twitter.com/HuntaroSan`
+        url: `https://github.com/perryjm`
       }
     ],
     sidebarConfig: {
