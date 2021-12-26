@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "build": "yarn workspace example build",
-    "serve": "npx serve example/public"
+    "serve": "npx serve gatsby-theme-document/public"
   },
   "workspaces": [
     "gatsby-theme-document",
