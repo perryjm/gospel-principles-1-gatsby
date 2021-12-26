@@ -5,12 +5,12 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "yarn workspace example build",
+    "build": "yarn workspace gatsby-theme-document build",
+    "develop": "yarn workspace gatsby-theme-document develop",
     "serve": "npx serve gatsby-theme-document/public"
   },
   "workspaces": [
-    "gatsby-theme-document",
-    "example"
+    "gatsby-theme-document"
   ],
   "devDependencies": {
     "eslint": "^6.2.2",

@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4cda24ae-67dc-468f-8a83-c89eb92d5df5/deploy-status)](https://app.netlify.com/sites/mikes-gospel-principles-wiki/deploys)
 
+[https://mikes-gospel-principles-wiki.netlify.app/](https://mikes-gospel-principles-wiki.netlify.app/)
+
 # Gatsby Theme Document
 
 ## Getting Started
