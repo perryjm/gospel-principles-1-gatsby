@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Document by Code Bushi`,
-    name: `Code Bushi`,
-    siteUrl: `https://codebushi.com`,
+    title: `GP Wiki`,
+    name: `Mike`,
+    siteUrl: `https://mikes-gospel-principles-wiki.netlify.app`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     social: [
       {

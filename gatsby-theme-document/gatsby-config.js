@@ -1,17 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Document by Code Bushi`,
-    name: `Code Bushi`,
-    siteUrl: `https://codebushi.com`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Mike's Gospel Principles Wiki`,
+    name: `Gospel Principles`,
+    siteUrl: `https://mikes-gospel-principles-wiki.netlify.app`,
+    description: `This is my personal website constituting many assembled and quoted resources. I do not take credit for all of the thoughts and ideas expressed here. This is for my own personal use, any other use of this material is not permitted.`,
     social: [
       {
         name: `github`,
-        url: `https://github.com/codebushi`
-      },
-      {
-        name: `twitter`,
-        url: `https://twitter.com/HuntaroSan`
+        url: `https://github.com/perryjm`
       }
     ],
     sidebarConfig: {
@@ -51,8 +47,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Document`,
-        short_name: `Document`,
+        name: `GP Wiki`,
+        short_name: `GP Wiki`,
         start_url: `/`,
         background_color: `#182952`,
         theme_color: `#a2466c`,
